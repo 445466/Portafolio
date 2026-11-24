@@ -1,0 +1,421 @@
+﻿Fecha,Producto,Categoria,Cantidad,Precio_Unitario_Q,Total_Q,Metodo_Pago
+2026-01-01,Frijol negro 2 lb,Granos,7,12.0,84.0,Efectivo
+2026-01-02,Jugo 1 L,Bebidas,4,13.0,52.0,Tarjeta
+2026-01-03,Detergente 1 kg,Limpieza,7,28.0,196.0,Tarjeta
+2026-01-03,Pan de caja,Panadería,2,16.0,32.0,Efectivo
+2026-01-03,Papel higiénico 4 rollos,Limpieza,1,14.0,14.0,Efectivo
+2026-01-04,Café 8 oz,Abarrotes,3,27.0,81.0,Tarjeta
+2026-01-04,Papel higiénico 4 rollos,Limpieza,6,14.0,84.0,Tarjeta
+2026-01-05,Harina de maíz 4 lb,Granos,3,15.0,45.0,Efectivo
+2026-01-05,Jugo 1 L,Bebidas,2,13.0,26.0,Transferencia
+2026-01-05,Pan de caja,Panadería,6,16.0,96.0,Tarjeta
+2026-01-07,Frijol negro 2 lb,Granos,6,12.0,72.0,Efectivo
+2026-01-10,Café 8 oz,Abarrotes,6,27.0,162.0,Tarjeta
+2026-01-10,Jabón de baño,Limpieza,1,5.5,5.5,Tarjeta
+2026-01-13,Gaseosa 2.5 L,Bebidas,3,17.0,51.0,Efectivo
+2026-01-13,Queso fresco 1 lb,Lácteos,6,22.0,132.0,Efectivo
+2026-01-15,Agua pura 1 gal,Bebidas,4,9.0,36.0,Efectivo
+2026-01-15,Galletas,Snacks,8,6.0,48.0,Efectivo
+2026-01-17,Café 8 oz,Abarrotes,3,27.0,81.0,Efectivo
+2026-01-18,Arroz 5 lb,Granos,7,18.5,129.5,Efectivo
+2026-01-18,Café 8 oz,Abarrotes,2,27.0,54.0,Efectivo
+2026-01-21,Café 8 oz,Abarrotes,1,27.0,27.0,Tarjeta
+2026-01-22,Arroz 5 lb,Granos,7,18.5,129.5,Tarjeta
+2026-01-22,Queso fresco 1 lb,Lácteos,8,22.0,176.0,Efectivo
+2026-01-23,Arroz 5 lb,Granos,3,18.5,55.5,Efectivo
+2026-01-23,Leche 1 L,Lácteos,5,10.5,52.5,Efectivo
+2026-01-24,Jabón de baño,Limpieza,4,5.5,22.0,Transferencia
+2026-01-25,Aceite 1 L,Abarrotes,3,24.0,72.0,Efectivo
+2026-01-25,Papel higiénico 4 rollos,Limpieza,2,14.0,28.0,Efectivo
+2026-01-26,Jugo 1 L,Bebidas,7,13.0,91.0,Efectivo
+2026-01-26,Papel higiénico 4 rollos,Limpieza,5,14.0,70.0,Transferencia
+2026-01-27,Huevos cartón 30,Lácteos,8,42.0,336.0,Tarjeta
+2026-01-27,Papel higiénico 4 rollos,Limpieza,5,14.0,70.0,Efectivo
+2026-01-28,Frijol negro 2 lb,Granos,1,12.0,12.0,Tarjeta
+2026-01-28,Leche 1 L,Lácteos,2,10.5,21.0,Efectivo
+2026-01-30,Harina de maíz 4 lb,Granos,8,15.0,120.0,Efectivo
+2026-01-30,Jabón de baño,Limpieza,3,5.5,16.5,Efectivo
+2026-01-31,Azúcar 5 lb,Granos,3,19.0,57.0,Efectivo
+2026-01-31,Galletas,Snacks,5,6.0,30.0,Tarjeta
+2026-01-31,Jugo 1 L,Bebidas,7,13.0,91.0,Transferencia
+2026-02-01,Agua pura 1 gal,Bebidas,1,9.0,9.0,Efectivo
+2026-02-02,Jugo 1 L,Bebidas,7,13.0,91.0,Efectivo
+2026-02-03,Aceite 1 L,Abarrotes,4,24.0,96.0,Efectivo
+2026-02-04,Detergente 1 kg,Limpieza,7,28.0,196.0,Tarjeta
+2026-02-04,Pan de caja,Panadería,3,16.0,48.0,Efectivo
+2026-02-04,Papel higiénico 4 rollos,Limpieza,1,14.0,14.0,Transferencia
+2026-02-06,Jabón de baño,Limpieza,4,5.5,22.0,Tarjeta
+2026-02-09,Agua pura 1 gal,Bebidas,8,9.0,72.0,Efectivo
+2026-02-09,Harina de maíz 4 lb,Granos,7,15.0,105.0,Efectivo
+2026-02-09,Huevos cartón 30,Lácteos,4,42.0,168.0,Tarjeta
+2026-02-09,Papel higiénico 4 rollos,Limpieza,1,14.0,14.0,Efectivo
+2026-02-10,Harina de maíz 4 lb,Granos,1,15.0,15.0,Efectivo
+2026-02-11,Agua pura 1 gal,Bebidas,6,9.0,54.0,Efectivo
+2026-02-12,Jugo 1 L,Bebidas,2,13.0,26.0,Efectivo
+2026-02-12,Papalinas,Snacks,7,7.5,52.5,Transferencia
+2026-02-13,Detergente 1 kg,Limpieza,7,28.0,196.0,Efectivo
+2026-02-14,Papalinas,Snacks,2,7.5,15.0,Tarjeta
+2026-02-15,Café 8 oz,Abarrotes,7,27.0,189.0,Efectivo
+2026-02-17,Harina de maíz 4 lb,Granos,7,15.0,105.0,Efectivo
+2026-02-17,Huevos cartón 30,Lácteos,4,42.0,168.0,Efectivo
+2026-02-17,Papalinas,Snacks,1,7.5,7.5,Tarjeta
+2026-02-18,Arroz 5 lb,Granos,2,18.5,37.0,Tarjeta
+2026-02-18,Huevos cartón 30,Lácteos,5,42.0,210.0,Tarjeta
+2026-02-19,Huevos cartón 30,Lácteos,2,42.0,84.0,Transferencia
+2026-02-20,Azúcar 5 lb,Granos,1,19.0,19.0,Tarjeta
+2026-02-20,Detergente 1 kg,Limpieza,1,28.0,28.0,Efectivo
+2026-02-20,Pan de caja,Panadería,4,16.0,64.0,Efectivo
+2026-02-21,Frijol negro 2 lb,Granos,2,12.0,24.0,Efectivo
+2026-02-21,Harina de maíz 4 lb,Granos,7,15.0,105.0,Efectivo
+2026-02-23,Leche 1 L,Lácteos,6,10.5,63.0,Efectivo
+2026-02-23,Queso fresco 1 lb,Lácteos,1,22.0,22.0,Efectivo
+2026-02-23,Queso fresco 1 lb,Lácteos,5,22.0,110.0,Efectivo
+2026-02-24,Pan de caja,Panadería,4,16.0,64.0,Efectivo
+2026-02-25,Café 8 oz,Abarrotes,3,27.0,81.0,Transferencia
+2026-02-25,Gaseosa 2.5 L,Bebidas,4,17.0,68.0,Transferencia
+2026-02-27,Detergente 1 kg,Limpieza,5,28.0,140.0,Efectivo
+2026-02-27,Gaseosa 2.5 L,Bebidas,2,17.0,34.0,Efectivo
+2026-02-28,Frijol negro 2 lb,Granos,3,12.0,36.0,Efectivo
+2026-03-02,Aceite 1 L,Abarrotes,1,24.0,24.0,Efectivo
+2026-03-02,Detergente 1 kg,Limpieza,2,28.0,56.0,Efectivo
+2026-03-02,Leche 1 L,Lácteos,6,10.5,63.0,Efectivo
+2026-03-04,Jabón de baño,Limpieza,1,5.5,5.5,Efectivo
+2026-03-06,Agua pura 1 gal,Bebidas,8,9.0,72.0,Tarjeta
+2026-03-06,Café 8 oz,Abarrotes,1,27.0,27.0,Efectivo
+2026-03-06,Detergente 1 kg,Limpieza,8,28.0,224.0,Efectivo
+2026-03-07,Jugo 1 L,Bebidas,4,13.0,52.0,Efectivo
+2026-03-08,Queso fresco 1 lb,Lácteos,2,22.0,44.0,Tarjeta
+2026-03-09,Arroz 5 lb,Granos,7,18.5,129.5,Efectivo
+2026-03-09,Galletas,Snacks,4,6.0,24.0,Transferencia
+2026-03-09,Galletas,Snacks,6,6.0,36.0,Tarjeta
+2026-03-09,Leche 1 L,Lácteos,5,10.5,52.5,Transferencia
+2026-03-10,Frijol negro 2 lb,Granos,3,12.0,36.0,Tarjeta
+2026-03-11,Gaseosa 2.5 L,Bebidas,6,17.0,102.0,Tarjeta
+2026-03-13,Aceite 1 L,Abarrotes,6,24.0,144.0,Efectivo
+2026-03-13,Detergente 1 kg,Limpieza,8,28.0,224.0,Tarjeta
+2026-03-13,Gaseosa 2.5 L,Bebidas,7,17.0,119.0,Efectivo
+2026-03-13,Harina de maíz 4 lb,Granos,8,15.0,120.0,Efectivo
+2026-03-14,Café 8 oz,Abarrotes,7,27.0,189.0,Efectivo
+2026-03-14,Pan de caja,Panadería,2,16.0,32.0,Tarjeta
+2026-03-14,Papel higiénico 4 rollos,Limpieza,4,14.0,56.0,Transferencia
+2026-03-15,Detergente 1 kg,Limpieza,8,28.0,224.0,Tarjeta
+2026-03-16,Agua pura 1 gal,Bebidas,1,9.0,9.0,Efectivo
+2026-03-16,Jugo 1 L,Bebidas,8,13.0,104.0,Efectivo
+2026-03-16,Papalinas,Snacks,7,7.5,52.5,Efectivo
+2026-03-17,Queso fresco 1 lb,Lácteos,3,22.0,66.0,Efectivo
+2026-03-18,Frijol negro 2 lb,Granos,5,12.0,60.0,Transferencia
+2026-03-19,Arroz 5 lb,Granos,2,18.5,37.0,Transferencia
+2026-03-20,Agua pura 1 gal,Bebidas,5,9.0,45.0,Efectivo
+2026-03-20,Café 8 oz,Abarrotes,5,27.0,135.0,Tarjeta
+2026-03-21,Harina de maíz 4 lb,Granos,4,15.0,60.0,Efectivo
+2026-03-21,Papalinas,Snacks,5,7.5,37.5,Efectivo
+2026-03-21,Queso fresco 1 lb,Lácteos,7,22.0,154.0,Efectivo
+2026-03-22,Arroz 5 lb,Granos,1,18.5,18.5,Tarjeta
+2026-03-22,Gaseosa 2.5 L,Bebidas,5,17.0,85.0,Transferencia
+2026-03-22,Harina de maíz 4 lb,Granos,3,15.0,45.0,Efectivo
+2026-03-22,Leche 1 L,Lácteos,8,10.5,84.0,Efectivo
+2026-03-23,Gaseosa 2.5 L,Bebidas,4,17.0,68.0,Tarjeta
+2026-03-24,Huevos cartón 30,Lácteos,3,42.0,126.0,Tarjeta
+2026-03-25,Papel higiénico 4 rollos,Limpieza,6,14.0,84.0,Efectivo
+2026-03-26,Café 8 oz,Abarrotes,1,27.0,27.0,Efectivo
+2026-03-26,Café 8 oz,Abarrotes,7,27.0,189.0,Transferencia
+2026-03-29,Azúcar 5 lb,Granos,1,19.0,19.0,Tarjeta
+2026-03-30,Leche 1 L,Lácteos,7,10.5,73.5,Efectivo
+2026-03-30,Papalinas,Snacks,4,7.5,30.0,Tarjeta
+2026-03-31,Papel higiénico 4 rollos,Limpieza,3,14.0,42.0,Transferencia
+2026-04-02,Agua pura 1 gal,Bebidas,2,9.0,18.0,Efectivo
+2026-04-02,Frijol negro 2 lb,Granos,5,12.0,60.0,Transferencia
+2026-04-02,Papalinas,Snacks,3,7.5,22.5,Efectivo
+2026-04-02,Papalinas,Snacks,3,7.5,22.5,Tarjeta
+2026-04-03,Azúcar 5 lb,Granos,8,19.0,152.0,Efectivo
+2026-04-06,Queso fresco 1 lb,Lácteos,3,22.0,66.0,Transferencia
+2026-04-07,Leche 1 L,Lácteos,1,10.5,10.5,Tarjeta
+2026-04-10,Gaseosa 2.5 L,Bebidas,6,17.0,102.0,Efectivo
+2026-04-10,Jugo 1 L,Bebidas,2,13.0,26.0,Tarjeta
+2026-04-10,Papalinas,Snacks,8,7.5,60.0,Tarjeta
+2026-04-11,Huevos cartón 30,Lácteos,2,42.0,84.0,Efectivo
+2026-04-12,Café 8 oz,Abarrotes,5,27.0,135.0,Efectivo
+2026-04-12,Jugo 1 L,Bebidas,6,13.0,78.0,Tarjeta
+2026-04-14,Queso fresco 1 lb,Lácteos,7,22.0,154.0,Tarjeta
+2026-04-16,Agua pura 1 gal,Bebidas,3,9.0,27.0,Efectivo
+2026-04-16,Galletas,Snacks,8,6.0,48.0,Efectivo
+2026-04-16,Papel higiénico 4 rollos,Limpieza,4,14.0,56.0,Efectivo
+2026-04-17,Pan de caja,Panadería,5,16.0,80.0,Tarjeta
+2026-04-17,Papalinas,Snacks,5,7.5,37.5,Efectivo
+2026-04-18,Jabón de baño,Limpieza,8,5.5,44.0,Efectivo
+2026-04-19,Leche 1 L,Lácteos,1,10.5,10.5,Efectivo
+2026-04-20,Queso fresco 1 lb,Lácteos,2,22.0,44.0,Efectivo
+2026-04-21,Pan de caja,Panadería,5,16.0,80.0,Efectivo
+2026-04-22,Huevos cartón 30,Lácteos,8,42.0,336.0,Efectivo
+2026-04-22,Jugo 1 L,Bebidas,2,13.0,26.0,Tarjeta
+2026-04-22,Papel higiénico 4 rollos,Limpieza,1,14.0,14.0,Transferencia
+2026-04-23,Pan de caja,Panadería,7,16.0,112.0,Tarjeta
+2026-04-24,Harina de maíz 4 lb,Granos,3,15.0,45.0,Efectivo
+2026-04-24,Jugo 1 L,Bebidas,6,13.0,78.0,Efectivo
+2026-04-24,Papalinas,Snacks,4,7.5,30.0,Efectivo
+2026-04-25,Agua pura 1 gal,Bebidas,3,9.0,27.0,Efectivo
+2026-04-25,Frijol negro 2 lb,Granos,6,12.0,72.0,Tarjeta
+2026-04-25,Harina de maíz 4 lb,Granos,4,15.0,60.0,Efectivo
+2026-04-26,Agua pura 1 gal,Bebidas,8,9.0,72.0,Efectivo
+2026-04-26,Papel higiénico 4 rollos,Limpieza,8,14.0,112.0,Tarjeta
+2026-04-29,Aceite 1 L,Abarrotes,6,24.0,144.0,Transferencia
+2026-04-29,Galletas,Snacks,7,6.0,42.0,Efectivo
+2026-04-29,Jugo 1 L,Bebidas,4,13.0,52.0,Tarjeta
+2026-04-30,Agua pura 1 gal,Bebidas,5,9.0,45.0,Efectivo
+2026-05-01,Agua pura 1 gal,Bebidas,6,9.0,54.0,Efectivo
+2026-05-02,Gaseosa 2.5 L,Bebidas,5,17.0,85.0,Efectivo
+2026-05-02,Papalinas,Snacks,5,7.5,37.5,Efectivo
+2026-05-03,Arroz 5 lb,Granos,2,18.5,37.0,Efectivo
+2026-05-03,Azúcar 5 lb,Granos,7,19.0,133.0,Tarjeta
+2026-05-05,Harina de maíz 4 lb,Granos,5,15.0,75.0,Transferencia
+2026-05-06,Huevos cartón 30,Lácteos,5,42.0,210.0,Tarjeta
+2026-05-07,Arroz 5 lb,Granos,6,18.5,111.0,Efectivo
+2026-05-07,Arroz 5 lb,Granos,7,18.5,129.5,Efectivo
+2026-05-07,Detergente 1 kg,Limpieza,8,28.0,224.0,Tarjeta
+2026-05-08,Aceite 1 L,Abarrotes,8,24.0,192.0,Efectivo
+2026-05-08,Arroz 5 lb,Granos,5,18.5,92.5,Efectivo
+2026-05-08,Arroz 5 lb,Granos,8,18.5,148.0,Efectivo
+2026-05-08,Frijol negro 2 lb,Granos,8,12.0,96.0,Efectivo
+2026-05-08,Gaseosa 2.5 L,Bebidas,8,17.0,136.0,Tarjeta
+2026-05-09,Huevos cartón 30,Lácteos,7,42.0,294.0,Tarjeta
+2026-05-09,Papel higiénico 4 rollos,Limpieza,8,14.0,112.0,Efectivo
+2026-05-09,Queso fresco 1 lb,Lácteos,7,22.0,154.0,Tarjeta
+2026-05-10,Agua pura 1 gal,Bebidas,1,9.0,9.0,Efectivo
+2026-05-11,Agua pura 1 gal,Bebidas,6,9.0,54.0,Efectivo
+2026-05-12,Detergente 1 kg,Limpieza,4,28.0,112.0,Efectivo
+2026-05-14,Aceite 1 L,Abarrotes,8,24.0,192.0,Tarjeta
+2026-05-14,Gaseosa 2.5 L,Bebidas,1,17.0,17.0,Transferencia
+2026-05-14,Jabón de baño,Limpieza,2,5.5,11.0,Efectivo
+2026-05-15,Detergente 1 kg,Limpieza,1,28.0,28.0,Tarjeta
+2026-05-15,Detergente 1 kg,Limpieza,5,28.0,140.0,Tarjeta
+2026-05-15,Galletas,Snacks,6,6.0,36.0,Efectivo
+2026-05-16,Agua pura 1 gal,Bebidas,2,9.0,18.0,Efectivo
+2026-05-16,Leche 1 L,Lácteos,4,10.5,42.0,Efectivo
+2026-05-17,Jugo 1 L,Bebidas,4,13.0,52.0,Transferencia
+2026-05-17,Papalinas,Snacks,7,7.5,52.5,Efectivo
+2026-05-18,Detergente 1 kg,Limpieza,7,28.0,196.0,Efectivo
+2026-05-18,Galletas,Snacks,4,6.0,24.0,Tarjeta
+2026-05-18,Pan de caja,Panadería,5,16.0,80.0,Efectivo
+2026-05-20,Azúcar 5 lb,Granos,7,19.0,133.0,Transferencia
+2026-05-20,Frijol negro 2 lb,Granos,5,12.0,60.0,Efectivo
+2026-05-20,Papel higiénico 4 rollos,Limpieza,1,14.0,14.0,Efectivo
+2026-05-21,Gaseosa 2.5 L,Bebidas,8,17.0,136.0,Tarjeta
+2026-05-21,Jabón de baño,Limpieza,8,5.5,44.0,Transferencia
+2026-05-22,Galletas,Snacks,6,6.0,36.0,Tarjeta
+2026-05-22,Jugo 1 L,Bebidas,7,13.0,91.0,Efectivo
+2026-05-24,Harina de maíz 4 lb,Granos,8,15.0,120.0,Efectivo
+2026-05-26,Papel higiénico 4 rollos,Limpieza,7,14.0,98.0,Tarjeta
+2026-05-27,Huevos cartón 30,Lácteos,6,42.0,252.0,Efectivo
+2026-05-29,Papel higiénico 4 rollos,Limpieza,8,14.0,112.0,Efectivo
+2026-05-30,Detergente 1 kg,Limpieza,8,28.0,224.0,Tarjeta
+2026-05-30,Frijol negro 2 lb,Granos,6,12.0,72.0,Tarjeta
+2026-05-30,Pan de caja,Panadería,8,16.0,128.0,Tarjeta
+2026-05-31,Café 8 oz,Abarrotes,2,27.0,54.0,Efectivo
+2026-06-01,Café 8 oz,Abarrotes,5,27.0,135.0,Transferencia
+2026-06-01,Papel higiénico 4 rollos,Limpieza,4,14.0,56.0,Efectivo
+2026-06-02,Gaseosa 2.5 L,Bebidas,2,17.0,34.0,Transferencia
+2026-06-02,Huevos cartón 30,Lácteos,8,42.0,336.0,Tarjeta
+2026-06-04,Jabón de baño,Limpieza,7,5.5,38.5,Efectivo
+2026-06-07,Leche 1 L,Lácteos,5,10.5,52.5,Efectivo
+2026-06-08,Galletas,Snacks,6,6.0,36.0,Efectivo
+2026-06-08,Jabón de baño,Limpieza,5,5.5,27.5,Efectivo
+2026-06-09,Azúcar 5 lb,Granos,3,19.0,57.0,Transferencia
+2026-06-11,Azúcar 5 lb,Granos,2,19.0,38.0,Tarjeta
+2026-06-12,Agua pura 1 gal,Bebidas,3,9.0,27.0,Efectivo
+2026-06-12,Arroz 5 lb,Granos,8,18.5,148.0,Efectivo
+2026-06-13,Huevos cartón 30,Lácteos,7,42.0,294.0,Tarjeta
+2026-06-14,Café 8 oz,Abarrotes,3,27.0,81.0,Efectivo
+2026-06-14,Galletas,Snacks,7,6.0,42.0,Efectivo
+2026-06-14,Jugo 1 L,Bebidas,8,13.0,104.0,Efectivo
+2026-06-15,Azúcar 5 lb,Granos,4,19.0,76.0,Efectivo
+2026-06-16,Leche 1 L,Lácteos,5,10.5,52.5,Tarjeta
+2026-06-17,Aceite 1 L,Abarrotes,7,24.0,168.0,Tarjeta
+2026-06-18,Gaseosa 2.5 L,Bebidas,5,17.0,85.0,Efectivo
+2026-06-19,Frijol negro 2 lb,Granos,5,12.0,60.0,Tarjeta
+2026-06-19,Queso fresco 1 lb,Lácteos,3,22.0,66.0,Tarjeta
+2026-06-20,Detergente 1 kg,Limpieza,8,28.0,224.0,Efectivo
+2026-06-20,Galletas,Snacks,6,6.0,36.0,Efectivo
+2026-06-22,Frijol negro 2 lb,Granos,7,12.0,84.0,Efectivo
+2026-06-23,Galletas,Snacks,4,6.0,24.0,Tarjeta
+2026-06-23,Leche 1 L,Lácteos,5,10.5,52.5,Efectivo
+2026-06-23,Papalinas,Snacks,7,7.5,52.5,Transferencia
+2026-06-25,Agua pura 1 gal,Bebidas,4,9.0,36.0,Efectivo
+2026-06-25,Jabón de baño,Limpieza,4,5.5,22.0,Tarjeta
+2026-06-26,Arroz 5 lb,Granos,6,18.5,111.0,Tarjeta
+2026-06-26,Jugo 1 L,Bebidas,3,13.0,39.0,Efectivo
+2026-06-26,Pan de caja,Panadería,1,16.0,16.0,Tarjeta
+2026-06-28,Gaseosa 2.5 L,Bebidas,6,17.0,102.0,Efectivo
+2026-06-28,Jugo 1 L,Bebidas,4,13.0,52.0,Efectivo
+2026-06-28,Papalinas,Snacks,7,7.5,52.5,Efectivo
+2026-06-28,Queso fresco 1 lb,Lácteos,8,22.0,176.0,Efectivo
+2026-07-02,Leche 1 L,Lácteos,2,10.5,21.0,Transferencia
+2026-07-02,Leche 1 L,Lácteos,4,10.5,42.0,Tarjeta
+2026-07-03,Agua pura 1 gal,Bebidas,1,9.0,9.0,Tarjeta
+2026-07-03,Agua pura 1 gal,Bebidas,6,9.0,54.0,Tarjeta
+2026-07-03,Café 8 oz,Abarrotes,1,27.0,27.0,Efectivo
+2026-07-03,Gaseosa 2.5 L,Bebidas,4,17.0,68.0,Efectivo
+2026-07-03,Leche 1 L,Lácteos,2,10.5,21.0,Tarjeta
+2026-07-04,Azúcar 5 lb,Granos,2,19.0,38.0,Tarjeta
+2026-07-04,Galletas,Snacks,4,6.0,24.0,Tarjeta
+2026-07-05,Detergente 1 kg,Limpieza,5,28.0,140.0,Tarjeta
+2026-07-05,Pan de caja,Panadería,7,16.0,112.0,Efectivo
+2026-07-07,Aceite 1 L,Abarrotes,5,24.0,120.0,Efectivo
+2026-07-07,Harina de maíz 4 lb,Granos,4,15.0,60.0,Efectivo
+2026-07-08,Frijol negro 2 lb,Granos,2,12.0,24.0,Tarjeta
+2026-07-08,Papalinas,Snacks,5,7.5,37.5,Efectivo
+2026-07-08,Papel higiénico 4 rollos,Limpieza,4,14.0,56.0,Efectivo
+2026-07-09,Arroz 5 lb,Granos,6,18.5,111.0,Efectivo
+2026-07-09,Papel higiénico 4 rollos,Limpieza,8,14.0,112.0,Tarjeta
+2026-07-10,Detergente 1 kg,Limpieza,4,28.0,112.0,Tarjeta
+2026-07-11,Gaseosa 2.5 L,Bebidas,2,17.0,34.0,Efectivo
+2026-07-12,Detergente 1 kg,Limpieza,5,28.0,140.0,Efectivo
+2026-07-12,Pan de caja,Panadería,8,16.0,128.0,Efectivo
+2026-07-14,Huevos cartón 30,Lácteos,8,42.0,336.0,Tarjeta
+2026-07-15,Gaseosa 2.5 L,Bebidas,4,17.0,68.0,Efectivo
+2026-07-16,Galletas,Snacks,4,6.0,24.0,Tarjeta
+2026-07-16,Leche 1 L,Lácteos,5,10.5,52.5,Transferencia
+2026-07-17,Aceite 1 L,Abarrotes,3,24.0,72.0,Tarjeta
+2026-07-17,Pan de caja,Panadería,8,16.0,128.0,Transferencia
+2026-07-18,Queso fresco 1 lb,Lácteos,8,22.0,176.0,Efectivo
+2026-07-19,Agua pura 1 gal,Bebidas,2,9.0,18.0,Tarjeta
+2026-07-20,Aceite 1 L,Abarrotes,2,24.0,48.0,Efectivo
+2026-07-20,Gaseosa 2.5 L,Bebidas,3,17.0,51.0,Efectivo
+2026-07-20,Jugo 1 L,Bebidas,1,13.0,13.0,Efectivo
+2026-07-21,Queso fresco 1 lb,Lácteos,8,22.0,176.0,Efectivo
+2026-07-23,Queso fresco 1 lb,Lácteos,1,22.0,22.0,Efectivo
+2026-07-24,Agua pura 1 gal,Bebidas,5,9.0,45.0,Tarjeta
+2026-07-24,Pan de caja,Panadería,2,16.0,32.0,Efectivo
+2026-07-26,Azúcar 5 lb,Granos,3,19.0,57.0,Efectivo
+2026-07-27,Pan de caja,Panadería,8,16.0,128.0,Efectivo
+2026-07-28,Gaseosa 2.5 L,Bebidas,1,17.0,17.0,Transferencia
+2026-07-29,Harina de maíz 4 lb,Granos,1,15.0,15.0,Tarjeta
+2026-07-29,Queso fresco 1 lb,Lácteos,1,22.0,22.0,Tarjeta
+2026-07-31,Harina de maíz 4 lb,Granos,6,15.0,90.0,Efectivo
+2026-08-01,Arroz 5 lb,Granos,1,18.5,18.5,Efectivo
+2026-08-02,Café 8 oz,Abarrotes,5,27.0,135.0,Efectivo
+2026-08-04,Papel higiénico 4 rollos,Limpieza,2,14.0,28.0,Efectivo
+2026-08-05,Agua pura 1 gal,Bebidas,7,9.0,63.0,Tarjeta
+2026-08-05,Café 8 oz,Abarrotes,1,27.0,27.0,Tarjeta
+2026-08-05,Jabón de baño,Limpieza,4,5.5,22.0,Efectivo
+2026-08-06,Café 8 oz,Abarrotes,5,27.0,135.0,Transferencia
+2026-08-06,Pan de caja,Panadería,7,16.0,112.0,Tarjeta
+2026-08-08,Leche 1 L,Lácteos,2,10.5,21.0,Efectivo
+2026-08-09,Queso fresco 1 lb,Lácteos,2,22.0,44.0,Tarjeta
+2026-08-11,Café 8 oz,Abarrotes,8,27.0,216.0,Efectivo
+2026-08-11,Galletas,Snacks,4,6.0,24.0,Tarjeta
+2026-08-12,Café 8 oz,Abarrotes,7,27.0,189.0,Efectivo
+2026-08-12,Jabón de baño,Limpieza,7,5.5,38.5,Tarjeta
+2026-08-12,Queso fresco 1 lb,Lácteos,7,22.0,154.0,Efectivo
+2026-08-13,Agua pura 1 gal,Bebidas,5,9.0,45.0,Tarjeta
+2026-08-13,Café 8 oz,Abarrotes,4,27.0,108.0,Efectivo
+2026-08-14,Gaseosa 2.5 L,Bebidas,7,17.0,119.0,Efectivo
+2026-08-14,Jabón de baño,Limpieza,4,5.5,22.0,Efectivo
+2026-08-15,Huevos cartón 30,Lácteos,5,42.0,210.0,Tarjeta
+2026-08-16,Agua pura 1 gal,Bebidas,5,9.0,45.0,Efectivo
+2026-08-16,Queso fresco 1 lb,Lácteos,7,22.0,154.0,Tarjeta
+2026-08-17,Huevos cartón 30,Lácteos,6,42.0,252.0,Tarjeta
+2026-08-17,Queso fresco 1 lb,Lácteos,1,22.0,22.0,Efectivo
+2026-08-21,Harina de maíz 4 lb,Granos,2,15.0,30.0,Tarjeta
+2026-08-21,Pan de caja,Panadería,6,16.0,96.0,Efectivo
+2026-08-22,Pan de caja,Panadería,8,16.0,128.0,Efectivo
+2026-08-23,Azúcar 5 lb,Granos,6,19.0,114.0,Transferencia
+2026-08-23,Detergente 1 kg,Limpieza,6,28.0,168.0,Efectivo
+2026-08-25,Papalinas,Snacks,7,7.5,52.5,Tarjeta
+2026-08-27,Papalinas,Snacks,8,7.5,60.0,Tarjeta
+2026-08-28,Detergente 1 kg,Limpieza,3,28.0,84.0,Tarjeta
+2026-08-28,Jugo 1 L,Bebidas,5,13.0,65.0,Efectivo
+2026-08-29,Aceite 1 L,Abarrotes,3,24.0,72.0,Efectivo
+2026-08-29,Detergente 1 kg,Limpieza,1,28.0,28.0,Transferencia
+2026-08-29,Galletas,Snacks,3,6.0,18.0,Tarjeta
+2026-08-30,Azúcar 5 lb,Granos,2,19.0,38.0,Efectivo
+2026-08-30,Frijol negro 2 lb,Granos,7,12.0,84.0,Efectivo
+2026-08-30,Galletas,Snacks,6,6.0,36.0,Tarjeta
+2026-08-30,Queso fresco 1 lb,Lácteos,1,22.0,22.0,Tarjeta
+2026-08-31,Aceite 1 L,Abarrotes,5,24.0,120.0,Tarjeta
+2026-08-31,Arroz 5 lb,Granos,1,18.5,18.5,Efectivo
+2026-08-31,Leche 1 L,Lácteos,1,10.5,10.5,Tarjeta
+2026-09-01,Frijol negro 2 lb,Granos,3,12.0,36.0,Tarjeta
+2026-09-01,Jugo 1 L,Bebidas,7,13.0,91.0,Transferencia
+2026-09-02,Aceite 1 L,Abarrotes,2,24.0,48.0,Tarjeta
+2026-09-02,Huevos cartón 30,Lácteos,1,42.0,42.0,Efectivo
+2026-09-02,Leche 1 L,Lácteos,2,10.5,21.0,Tarjeta
+2026-09-02,Pan de caja,Panadería,8,16.0,128.0,Efectivo
+2026-09-02,Papalinas,Snacks,6,7.5,45.0,Tarjeta
+2026-09-02,Queso fresco 1 lb,Lácteos,2,22.0,44.0,Efectivo
+2026-09-03,Detergente 1 kg,Limpieza,6,28.0,168.0,Tarjeta
+2026-09-04,Queso fresco 1 lb,Lácteos,3,22.0,66.0,Efectivo
+2026-09-05,Detergente 1 kg,Limpieza,6,28.0,168.0,Efectivo
+2026-09-05,Huevos cartón 30,Lácteos,4,42.0,168.0,Efectivo
+2026-09-06,Leche 1 L,Lácteos,6,10.5,63.0,Efectivo
+2026-09-09,Aceite 1 L,Abarrotes,2,24.0,48.0,Efectivo
+2026-09-09,Huevos cartón 30,Lácteos,1,42.0,42.0,Efectivo
+2026-09-10,Agua pura 1 gal,Bebidas,5,9.0,45.0,Tarjeta
+2026-09-10,Papel higiénico 4 rollos,Limpieza,6,14.0,84.0,Efectivo
+2026-09-11,Queso fresco 1 lb,Lácteos,7,22.0,154.0,Efectivo
+2026-09-12,Detergente 1 kg,Limpieza,8,28.0,224.0,Transferencia
+2026-09-13,Gaseosa 2.5 L,Bebidas,5,17.0,85.0,Tarjeta
+2026-09-14,Azúcar 5 lb,Granos,3,19.0,57.0,Efectivo
+2026-09-15,Azúcar 5 lb,Granos,5,19.0,95.0,Tarjeta
+2026-09-15,Leche 1 L,Lácteos,7,10.5,73.5,Transferencia
+2026-09-15,Papalinas,Snacks,4,7.5,30.0,Efectivo
+2026-09-16,Aceite 1 L,Abarrotes,2,24.0,48.0,Efectivo
+2026-09-16,Arroz 5 lb,Granos,8,18.5,148.0,Efectivo
+2026-09-16,Café 8 oz,Abarrotes,8,27.0,216.0,Efectivo
+2026-09-16,Queso fresco 1 lb,Lácteos,8,22.0,176.0,Efectivo
+2026-09-17,Agua pura 1 gal,Bebidas,1,9.0,9.0,Efectivo
+2026-09-19,Jugo 1 L,Bebidas,2,13.0,26.0,Tarjeta
+2026-09-19,Jugo 1 L,Bebidas,8,13.0,104.0,Efectivo
+2026-09-19,Papel higiénico 4 rollos,Limpieza,3,14.0,42.0,Efectivo
+2026-09-20,Azúcar 5 lb,Granos,6,19.0,114.0,Efectivo
+2026-09-20,Frijol negro 2 lb,Granos,6,12.0,72.0,Efectivo
+2026-09-20,Jabón de baño,Limpieza,3,5.5,16.5,Tarjeta
+2026-09-20,Papalinas,Snacks,7,7.5,52.5,Efectivo
+2026-09-20,Queso fresco 1 lb,Lácteos,6,22.0,132.0,Efectivo
+2026-09-23,Frijol negro 2 lb,Granos,6,12.0,72.0,Efectivo
+2026-09-23,Harina de maíz 4 lb,Granos,1,15.0,15.0,Efectivo
+2026-09-23,Queso fresco 1 lb,Lácteos,3,22.0,66.0,Tarjeta
+2026-09-24,Azúcar 5 lb,Granos,8,19.0,152.0,Transferencia
+2026-09-25,Harina de maíz 4 lb,Granos,3,15.0,45.0,Tarjeta
+2026-09-25,Queso fresco 1 lb,Lácteos,2,22.0,44.0,Efectivo
+2026-09-26,Frijol negro 2 lb,Granos,1,12.0,12.0,Efectivo
+2026-09-26,Papalinas,Snacks,3,7.5,22.5,Efectivo
+2026-09-27,Detergente 1 kg,Limpieza,1,28.0,28.0,Efectivo
+2026-09-27,Harina de maíz 4 lb,Granos,6,15.0,90.0,Efectivo
+2026-10-01,Huevos cartón 30,Lácteos,1,42.0,42.0,Efectivo
+2026-10-02,Aceite 1 L,Abarrotes,7,24.0,168.0,Tarjeta
+2026-10-02,Pan de caja,Panadería,7,16.0,112.0,Efectivo
+2026-10-02,Papalinas,Snacks,3,7.5,22.5,Efectivo
+2026-10-05,Café 8 oz,Abarrotes,1,27.0,27.0,Tarjeta
+2026-10-05,Pan de caja,Panadería,2,16.0,32.0,Efectivo
+2026-10-06,Agua pura 1 gal,Bebidas,4,9.0,36.0,Tarjeta
+2026-10-06,Papalinas,Snacks,3,7.5,22.5,Efectivo
+2026-10-08,Arroz 5 lb,Granos,5,18.5,92.5,Efectivo
+2026-10-08,Detergente 1 kg,Limpieza,1,28.0,28.0,Efectivo
+2026-10-08,Leche 1 L,Lácteos,7,10.5,73.5,Efectivo
+2026-10-12,Papel higiénico 4 rollos,Limpieza,4,14.0,56.0,Efectivo
+2026-10-14,Frijol negro 2 lb,Granos,7,12.0,84.0,Efectivo
+2026-10-14,Leche 1 L,Lácteos,3,10.5,31.5,Efectivo
+2026-10-14,Papel higiénico 4 rollos,Limpieza,5,14.0,70.0,Efectivo
+2026-10-15,Huevos cartón 30,Lácteos,1,42.0,42.0,Efectivo
+2026-10-16,Frijol negro 2 lb,Granos,3,12.0,36.0,Efectivo
+2026-10-17,Azúcar 5 lb,Granos,3,19.0,57.0,Efectivo
+2026-10-17,Detergente 1 kg,Limpieza,2,28.0,56.0,Efectivo
+2026-10-17,Jugo 1 L,Bebidas,3,13.0,39.0,Tarjeta
+2026-10-18,Huevos cartón 30,Lácteos,5,42.0,210.0,Efectivo
+2026-10-18,Papalinas,Snacks,4,7.5,30.0,Efectivo
+2026-10-18,Queso fresco 1 lb,Lácteos,3,22.0,66.0,Efectivo
+2026-10-19,Aceite 1 L,Abarrotes,7,24.0,168.0,Tarjeta
+2026-10-19,Jabón de baño,Limpieza,5,5.5,27.5,Efectivo
+2026-10-19,Papalinas,Snacks,8,7.5,60.0,Tarjeta
+2026-10-20,Huevos cartón 30,Lácteos,8,42.0,336.0,Efectivo
+2026-10-21,Jabón de baño,Limpieza,2,5.5,11.0,Transferencia
+2026-10-21,Jugo 1 L,Bebidas,1,13.0,13.0,Tarjeta
+2026-10-22,Pan de caja,Panadería,7,16.0,112.0,Efectivo
+2026-10-23,Agua pura 1 gal,Bebidas,5,9.0,45.0,Efectivo
+2026-10-25,Leche 1 L,Lácteos,8,10.5,84.0,Efectivo
+2026-10-25,Papel higiénico 4 rollos,Limpieza,3,14.0,42.0,Tarjeta
+2026-10-26,Café 8 oz,Abarrotes,2,27.0,54.0,Tarjeta
+2026-10-26,Harina de maíz 4 lb,Granos,5,15.0,75.0,Tarjeta
+2026-10-27,Arroz 5 lb,Granos,1,18.5,18.5,Transferencia
+2026-10-27,Café 8 oz,Abarrotes,1,27.0,27.0,Efectivo
+2026-10-28,Pan de caja,Panadería,1,16.0,16.0,Efectivo
